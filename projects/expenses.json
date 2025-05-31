@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-05-11",
+        "category": "saree",
+        "amount": 5000.0,
+        "description": "dress"
+    },
+    {
+        "date": "2025-05-04",
+        "category": "food",
+        "amount": 1000000.0,
+        "description": "mairrage"
+    }
+]
