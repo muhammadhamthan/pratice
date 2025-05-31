@@ -20,5 +20,5 @@ output_image_path = output_dir / 'image1.jpg'
 
 results[0].save(output_image_path) # IT IS USED TO SAVE THE FIRST IMAGE (BY MENTIONING "RESULTS[0]")
 
-
+print("added file")
 
