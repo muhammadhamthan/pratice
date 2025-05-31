@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, redirect, session, url_for
 import json
 from werkzeug.security import generate_password_hash, check_password_hash
 
+print("new one")
+
 app = Flask(__name__)
 app.secret_key = "your_secret_key"
 
@@ -88,3 +90,5 @@ def add():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
+    
